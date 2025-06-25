@@ -2,7 +2,7 @@
 
 A mathematical model for retinol, RBP4, and TTR binding in plasma/serum based on experimentally determined dissociation constants was built to simulate concentrations of unbound TTR tetramer, RBP4, retinol, along with retinol bound to RBP4, RBP4 complexed with TTR, and the ternary complex (retinol-RBP4-TTR). A sensitivity analysis was also performed.
 
-This repository provides the MATLAB code for the binding model, along with the implementation and sensitivity analysis. The code and outputs are provided as MATLAB file, pdf, and integrated HTML files: https://isoherranen-lab.github.io/RBP4_TTR_Retinol_Binding_Model/combined_model.html
+This repository provides the MATLAB code for the binding model, along with the implementation and sensitivity analysis. The code and outputs are provided as MATLAB file, pdf, and integrated HTML files: https://isoherranen-lab.github.io/RBP4_TTR_Retinol_Binding_Model/BindingModel.html
 
 Additionally, the repository includes the R code, summary reports, and outputs from the statistical analysis of serum retinol, RBP4, and TTR as pdf and integrated HTML files: https://isoherranen-lab.github.io/RBP4_TTR_Retinol_Binding_Model/StatisticalAnalysis/StatisticalAnalysis.html 
 
