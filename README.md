@@ -4,7 +4,7 @@ A mathematical model for retinol, RBP4, and TTR binding in plasma/serum based on
 
 This repository provides the MATLAB code for the binding model, along with the implementation and sensitivity analysis. The code and outputs are provided as MATLAB file, pdf, and integrated HTML files: https://isoherranen-lab.github.io/RBP4_TTR_Retinol_Binding_Model/BindingModel.html
 
-Additionally, the repository includes the R code, summary reports, and outputs from the statistical analysis of serum retinol, RBP4, and TTR as pdf and integrated HTML files: https://isoherranen-lab.github.io/RBP4_TTR_Retinol_Binding_Model/StatisticalAnalysis/StatisticalAnalysis.html 
+Additionally, the repository includes the R code, summary reports, and outputs from the statistical analysis including stepwise backward multiple linear regression of serum retinol, RBP4, and TTR and variables as pdf and integrated HTML files: https://isoherranen-lab.github.io/RBP4_TTR_Retinol_Binding_Model/StatisticalAnalysis/StatisticalAnalysis.html 
 
 
 <br>
