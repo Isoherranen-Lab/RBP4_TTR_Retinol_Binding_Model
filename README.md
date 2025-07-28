@@ -1,11 +1,14 @@
 # Sex and Age but not Body Mass Index (BMI) Predict Serum Retinol Binding Protein 4 (RBP4) and Transthyretin (TTR) Concentrations (Repository)
 
+Published manuscript: https://doi.org/10.1096/fj.202501772R
+<br>
+
+
 A mathematical model for retinol, RBP4, and TTR binding in plasma/serum based on experimentally determined dissociation constants was built to simulate concentrations of unbound TTR tetramer, RBP4, retinol, along with retinol bound to RBP4, RBP4 complexed with TTR, and the ternary complex (retinol-RBP4-TTR). A sensitivity analysis was also performed.
 
 This repository provides the MATLAB code for the binding model, along with the implementation and sensitivity analysis. The code and outputs are provided as MATLAB file, pdf, and integrated HTML files: https://isoherranen-lab.github.io/RBP4_TTR_Retinol_Binding_Model/BindingModel.html
 
 Additionally, the repository includes the R code, summary reports, and outputs from the statistical analysis including stepwise backward multiple linear regression of serum retinol, RBP4, and TTR and variables as pdf and integrated HTML files: https://isoherranen-lab.github.io/RBP4_TTR_Retinol_Binding_Model/StatisticalAnalysis/StatisticalAnalysis.html 
-
 
 <br>
 <b>Abstract:</b>
